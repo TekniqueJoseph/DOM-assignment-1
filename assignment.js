@@ -13,9 +13,9 @@ const title = document.querySelector('title')
 const tProperty = document.querySelector('title')
 // tProperty.innerText = 'Assignment - Solved!'
 // const docHead = document.head
-// const docTitle = document.head.querySelector('title')
-// docTitle.textContent = 'Assignment - Solved!'
-document.head.querySelector('title').textContent = 'Assignment - Solved!!!'
+const docTitle = document.head.querySelector('title')
+docTitle.textContent = 'Assignment - Solved!'
+// document.head.querySelector('title').textContent = 'Assignment - Solved!!!'
 ol.children[1].style.border = '5px solid gold'
 
 const assign = document.querySelector('h1')
