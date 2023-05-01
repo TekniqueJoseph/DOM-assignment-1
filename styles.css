@@ -3,7 +3,8 @@ html {
 }
 
 body {
-  margin: 5rem;
+  /* margin: 5rem; */
+  /* padding: 5rem; */
   background-image: linear-gradient(to right, #38a898, #4bb481, #78bd5f, #aec037, #ebbb12);
  
 }
