@@ -53,6 +53,7 @@ li:before {
 
 li:hover,
 li:active {
+  cursor: pointer;
   border-color: #fa923f;
   color: white;
   background: #fa923f;
